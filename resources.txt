@@ -1,0 +1,7 @@
+Huge Dataset: https://universe.roboflow.com/yusuf-bayrak-ude9b/plc_cv 
+
+Decent Dataset (includes euro cops): https://universe.roboflow.com/v5-model/cops2/dataset/2/images 
+
+yolov8 tutorial: https://www.freecodecamp.org/news/how-to-detect-objects-in-images-using-yolov8/ 
+
+Rasberry pi implementation (cat detector): https://www.youtube.com/watch?v=gGqVNuYol6o 
