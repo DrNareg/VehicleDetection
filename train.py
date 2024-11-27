@@ -4,7 +4,7 @@ from ultralytics import YOLO
 model = YOLO("yolo11n.pt")
 
 '''
-Start training, args:
+Start training, args explained:
 imgsz set to 640 to match training data
 batch set to 8 to avoid memory overflow and it worked better than 16
 epochs set to 100 like default
