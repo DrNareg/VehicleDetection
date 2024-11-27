@@ -1,0 +1,13 @@
+train: C:\Users\Nareg\.vscode\VehicleDetection3\CopCars.v2i.yolov11\train\images
+val: C:\Users\Nareg\.vscode\VehicleDetection3\CopCars.v2i.yolov11\valid\images
+test: C:\Users\Nareg\.vscode\VehicleDetection3\CopCars.v2i.yolov11\test\images
+
+nc: 1
+names: ['cop']
+
+roboflow:
+  workspace: copdetector
+  project: cop-cars
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/copdetector/cop-cars/dataset/2

@@ -1,0 +1,4 @@
+YOLO11n summary (fused): 238 layers, 2,582,347 parameters, 0 gradients, 6.3 GFLOPs
+                 Class     Images  Instances      Box(P          R      mAP50  mAP50-95): 100%|██████████| 3/3 [00:00<00:00,  4.21it/s]
+                   all         35         35          1      0.971      0.982      0.891
+Speed: 0.4ms preprocess, 5.9ms inference, 0.0ms loss, 1.2ms postprocess per image
